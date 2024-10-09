@@ -1,11 +1,13 @@
+// Author: Chi
+// Description: This program uses regex and concatentation to transform normal words into pig latin
+
 #include <iostream>
 using namespace std;
 #include <string>
 #include <sstream>
 #include <regex>
 
-// Code Description: This program uses regex and concatentation to transform normal words into pig latin
-// Author: Chimara Okeke
+
 
 // Function prototype
 string pigLatin(string word);
